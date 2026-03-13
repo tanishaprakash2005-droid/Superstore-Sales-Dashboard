@@ -1,48 +1,74 @@
 # Superstore Sales Dashboard (Power BI)
 
-## Project Overview
+## 📊 Project Overview
 
-This project analyzes Superstore sales data using Power BI to generate business insights and visualize key performance metrics.
+This project analyzes **Superstore sales data** using **Power BI** to generate meaningful business insights.
+The dashboard helps understand sales performance, regional trends, and product category contributions.
 
-The dashboard helps understand:
+---
 
-* Overall sales and profit performance
-* Regional sales distribution
-* Category-wise sales contribution
-* Sales trends over time
+## 🖼️ Dashboard Preview
 
-## Tools Used
+![Sales Dashboard](sales_dashboard.png)
 
-* Microsoft Power BI
-* Excel / CSV Dataset
-* Data Visualization Techniques
+---
 
-## Dashboard Features
+## 📁 Dataset
 
-* Total Sales KPI
-* Total Profit KPI
-* Sales by Region (Bar Chart)
-* Sales by Category (Pie Chart)
-* Sales Trend Over Time (Line Chart)
+The dataset used is **Sample Superstore Sales Data**.
 
-## Dataset
+It contains information about:
 
-Dataset used: **Sample Superstore Dataset**
+* Order details
+* Sales and profit
+* Customer segments
+* Product categories
+* Regions and states
+* Shipping information
 
-## Project Files
+File used: `Sample - Superstore.csv`
 
-* `Sales Dashboard.pbix` – Power BI dashboard file
-* `Sample - Superstore.csv` – dataset used
-* `sales_dashboard.png` – dashboard preview
+---
 
-## Key Insights
+## 🛠 Tools Used
 
-* West region generated the highest sales.
-* Technology category contributes the largest share of revenue.
-* Sales show a declining trend over time.
+* **Microsoft Power BI**
+* **CSV Dataset**
+* **Data Visualization Techniques**
 
-## Author
+---
 
-Tanisha P
-# Superstore-Sales-Dashboard
-Power BI dashboard analyzing Superstore sales data with business insights.
+## 📈 Dashboard Features
+
+The dashboard provides insights into:
+
+* Overall **Sales and Profit Performance**
+* **Regional Sales Distribution**
+* **Category and Sub-Category Analysis**
+* **Sales Trends Over Time**
+* **Customer Segment Analysis**
+
+---
+
+## 🔍 Key Insights
+
+* The **West region** generates the highest sales.
+* **Technology category** produces the highest profit.
+* Some **sub-categories show negative profit**, indicating loss.
+* Sales show **seasonal trends across months**.
+
+---
+
+## 📂 Project Files
+
+* `Sales Dashboard(task-1).pbix` – Power BI dashboard file
+* `Sample - Superstore.csv` – Dataset used
+* `sales_dashboard.png` – Dashboard screenshot
+* `README.md` – Project documentation
+
+---
+
+## 🎯 Conclusion
+
+This project demonstrates how **Power BI can transform raw sales data into actionable business insights** through interactive dashboards and visual analytics.
+
